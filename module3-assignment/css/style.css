@@ -66,7 +66,7 @@ body {
 #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.3em;
   }
-  #collapsable-nav a span { /* Collapsed nav menu glyph */
+#collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
     margin-right: 5px;
   }
